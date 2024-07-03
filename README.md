@@ -1,3 +1,3 @@
-# ipynb-to-python
+# Scripts
 
-A script that converts a Jupyter Notebook file to a Python file
+A collection of scripts for DevEx in python.
